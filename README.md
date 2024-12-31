@@ -32,7 +32,7 @@ Transform documents into engaging podcasts or create random story podcasts using
 
 ### Sample 1: Generated Podcast for a Technical Document
 <video controls="" autoplay="">
-  <source src="assets/sample_outputs/Detective_podcast_audio.mp3" type="audio/mpeg">
+  <source src="assets/sample_outputs/Detective_podcast_audio.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </video>
 
@@ -40,7 +40,7 @@ Transform documents into engaging podcasts or create random story podcasts using
 
 ### Sample 2: Story Podcast - Magical Storyteller Persona
 <video controls="" autoplay="">
-  <source src="assets/sample_outputs/MagicalStoryteller_podcast_audio.mp3" type="audio/mpeg">
+  <source src="assets/sample_outputs/MagicalStoryteller_podcast_audio.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </video>
 
@@ -48,7 +48,7 @@ Transform documents into engaging podcasts or create random story podcasts using
 
 ### Sample 3: Comedy Podcast - Stand-Up Comedian Persona
 <video controls="" autoplay="">
-  <source src="assets/sample_outputs/Stand-UpComedian_podcast_audio.mp3" type="audio/mpeg">
+  <source src="assets/sample_outputs/Stand-UpComedian_podcast_audio.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </video>
 
@@ -56,7 +56,7 @@ Transform documents into engaging podcasts or create random story podcasts using
 
 ### Sample 4: Inspirational Story - Fitness Coach Persona
 <video controls="" autoplay="">
-  <source src="assets/sample_outputs/FitnessCoach_podcast_audio.mp3" type="audio/mpeg">
+  <source src="assets/sample_outputs/FitnessCoach_podcast_audio.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </video>
 
