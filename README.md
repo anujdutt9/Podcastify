@@ -31,34 +31,34 @@ Transform documents into engaging podcasts or create random story podcasts using
 ## 🎧 Sample Audio Outputs
 
 ### Sample 1: Generated Podcast for a Technical Document
-<audio controls>
+<video controls="" autoplay="">
   <source src="assets/sample_outputs/Detective_podcast_audio.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
-</audio>
+</video>
 
 ---
 
 ### Sample 2: Story Podcast - Magical Storyteller Persona
-<audio controls>
+<video controls="" autoplay="">
   <source src="assets/sample_outputs/MagicalStoryteller_podcast_audio.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
-</audio>
+</video>
 
 ---
 
 ### Sample 3: Comedy Podcast - Stand-Up Comedian Persona
-<audio controls>
+<video controls="" autoplay="">
   <source src="assets/sample_outputs/Stand-UpComedian_podcast_audio.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
-</audio>
+</video>
 
 ---
 
 ### Sample 4: Inspirational Story - Fitness Coach Persona
-<audio controls>
+<video controls="" autoplay="">
   <source src="assets/sample_outputs/FitnessCoach_podcast_audio.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
-</audio>
+</video>
 
 ---
 
