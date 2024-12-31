@@ -122,4 +122,4 @@ Please fork this repository, make your changes, and submit a pull request. For m
 
 # 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/anujdutt9/Podcastify/blob/main/LICENSE) file for more information.
