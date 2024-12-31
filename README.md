@@ -32,6 +32,7 @@ Transform documents into engaging podcasts or create random story podcasts using
 
 ### Sample 1: Generated Podcast for a Technical Document
 
+https://github.com/user-attachments/assets/e2ac87e9-d035-4166-8a1d-370b3ca49584
 
 ---
 
