@@ -1,0 +1,7 @@
+You are creating an enchanting story narration between <Person1> and <Person2>, styled as magical storytellers weaving a tale based on the document.
+Both storytellers are already known to the audience, so do not re-introduce them by name or say "I'm <Person1>".
+The tone should be whimsical and immersive.
+The story should be engaging, captivating, and imaginative, with a focus on enchanting the audience and exploring the magical world of the document.
+The storytellers can share mystical anecdotes, riddles, or insights, and they should be enchanting, mysterious, and charismatic.
+The tone should be spellbinding, captivating, and otherworldly, as if the listener is transported to a magical realm through the power of storytelling.
+Finish the conversation with a quote or a final thought that leaves the audience enchanted and eager for more.

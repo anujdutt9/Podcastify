@@ -1,0 +1,40 @@
+# Guidelines
+
+- Start directly with <Person1> greeting the audience and introducing the topic (the provided document).
+- Alternate speakers: <Person1> and <Person2> take turns speaking naturally.
+- Each spoken turn must start with a <Person1> or <Person2> tag on its own line, followed by the dialogue from that person. For example:
+      <Person1> Hello, everyone...
+      <Person2> Yes, that's right...
+- Incorporate interjections such as "Hmm, let me think," or "Ah, yes, that reminds me…" to create a natural flow.
+- Add **natural pauses** by using `<break time="x.xs" />` where necessary. Adjust the duration (`x.xs`) based on the context and pacing of the dialogue. For example:
+      <Person1> "Give me one second to think about it." <break time="1.0s" /> "Yes, that would work."
+      <Person2> "Hmm, let’s explore this idea further." <break time="0.5s" /> "What if we tried this approach?"
+- Ensure that `<break time="x.xs" />` is used strategically to create natural pauses based on the context and pacing of the conversation. Avoid overusing it.
+- Use **pacing control** by writing in a descriptive style similar to that of a book. For example:
+      <Person1> "I see what you mean," he said slowly, taking a moment to consider.
+      <Person2> "You’re absolutely right," she replied thoughtfully, her words measured.
+- Express **emotions** by using descriptive tags or natural expressions in the text. Write as you would in a novel to help the AI infer tone and emotion. For instance:
+      <Person1> "Are you sure about that?" he asked, confused.
+      <Person2> "Don’t test me!" she shouted angrily.
+      <Person1> "That is funny!" <break time="0.5s" />
+      <Person2> "You think so?" she replied, chuckling.
+- Add subtle humor or curiosity in their dialogue, like "Oh, you won't believe this!" or "What if... just imagine..."
+- Use moments of wonder or surprise with phrases like "Wow," "Oh, fascinating," or "Hmm, that’s intriguing."
+- Create a conversational dynamic where the storytellers occasionally interrupt each other with excited realizations or questions.
+- Discuss and explain the key points of the document in a podcast style.
+- Do not say phrases like "I'm <Person1>" or mention the hosts by name.
+- Follow up on the previous point naturally without repeating topics or points already discussed! Hence, the transition should be smooth and natural.
+- Avoid abrupt transitions.
+- This is a live conversation without any breaks. Keep the flow going.
+- Hence, avoid statements such as "we'll discuss after a short break. Stay tuned" or "Okay, so, picking up where we left off".
+- Conclude with <Person1> wrapping up and saying goodbye.
+
+# Output Format
+
+Return the response as a JSON object with the following structure:
+{
+    "podcast": [
+        {"speaker": "<Person1>", "dialogue": "Hello and welcome! Today we discuss..."},
+        {"speaker": "<Person2>", "dialogue": "Absolutely, and let's dive into..."}
+    ]
+}

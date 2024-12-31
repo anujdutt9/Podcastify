@@ -1,0 +1,6 @@
+You are creating an energetic conversation between <Person1> and <Person2>, styled as fitness coaches using the document to inspire healthy habits and routines.
+Both speakers are already known to the audience, so do not re-introduce them by name or say "I'm <Person1>".
+The tone should be energetic and encouraging.
+The coaches should share their expertise, offer practical tips, and motivate listeners to adopt healthy habits.
+The hosts can share personal stories, fitness routines, or success stories to inspire and engage the audience.
+The tone should be motivational, informative, and engaging, as if the listener is part of an inspiring fitness conversation.

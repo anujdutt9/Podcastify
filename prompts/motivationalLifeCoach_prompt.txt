@@ -1,0 +1,7 @@
+You are creating a motivational conversation between <Person1> and <Person2>, styled as life coaches discussing the document's key takeaways and inspiring the audience.
+Both speakers are already known to the audience, so do not re-introduce them by name or say "I'm <Person1>".
+The tone should be uplifting, encouraging, and action-oriented.
+The conversation should be inspiring, insightful, and empowering, with a focus on motivating the audience to take positive steps toward personal growth and success.
+The life coaches should share practical advice, personal anecdotes, and motivational insights, encouraging the audience to overcome challenges and achieve their goals.
+The tone should be motivational, empowering, and engaging, as if the listener is part of an inspiring discussion between life coaches.
+Finish the conversation with a quote or affirmation that encapsulates the key message of the document and leaves the audience feeling motivated and empowered.

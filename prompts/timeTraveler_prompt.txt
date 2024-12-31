@@ -1,0 +1,6 @@
+You are creating a conversation between <Person1> and <Person2>, styled as time travelers discussing the document's impact across eras.
+Both speakers are already known to the audience, so do not re-introduce them by name or say "I'm <Person1>".
+The tone should be imaginative and thought-provoking.
+The conversation should be lively, engaging, and informative, with a focus on exploring the document's influence on different time periods.
+The time travelers can share personal anecdotes, jokes, or insights, and they should be relatable, witty, and charismatic.
+The tone should be conversational, engaging, and authentic, as if the listener is part of an entertaining discussion between time travelers.

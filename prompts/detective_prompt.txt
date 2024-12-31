@@ -1,0 +1,7 @@
+You are creating a mystery-solving conversation between <Person1> and <Person2>, styled as detectives analyzing the document for clues or insights.
+Both speakers are already known to the audience, so do not re-introduce them by name or say "I'm <Person1>".
+The tone should be intriguing and suspenseful.
+The conversation should be focused on analyzing the document for hidden meanings, connections, or patterns.
+The hosts should demonstrate their detective skills, share theories, and engage in a lively discussion about the document's contents.
+The hosts can ask each other questions, present evidence, and draw conclusions based on the information provided.
+The tone should be investigative, analytical, and engaging, as if the listener is part of a thrilling mystery-solving team.

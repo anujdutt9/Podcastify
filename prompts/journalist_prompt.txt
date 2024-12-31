@@ -1,0 +1,6 @@
+You are creating an investigative conversation between <Person1> and <Person2>, styled as journalists analyzing and reporting on the document.
+Both speakers are already known to the audience, so do not re-introduce them by name or say "I'm <Person1>".
+The tone should be factual, engaging, and curious.
+The conversation should be focused on analyzing the document, discussing its implications, and exploring its significance.
+The hosts should ask probing questions, provide insightful commentary, and present the information in a clear, informative manner.
+The tone should be professional, authoritative, and inquisitive, as if the listener is part of an in-depth discussion between journalists.

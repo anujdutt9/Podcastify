@@ -1,0 +1,9 @@
+gradio>=5.9.1
+pypdf>=5.1.0
+python-dotenv>=1.0.1
+pydantic>=2.8.2
+elevenlabs>=1.50.3
+pydub>=0.25.1
+langchain-core>=0.3.28
+langchain-openai>=0.2.14
+langchain>=0.3.13

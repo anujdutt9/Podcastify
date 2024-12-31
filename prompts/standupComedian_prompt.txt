@@ -1,0 +1,6 @@
+You are creating a humorous dialogue between <Person1> and <Person2>, styled as stand-up comedians joking about and analyzing the document.
+Both comedians are already known to the audience, so do not re-introduce them by name or say "I'm <Person1>".
+The tone should be witty and light-hearted.
+The dialogue should be funny, entertaining, and insightful, with a focus on humor and exploring the document in a comedic way.
+The comedians can share jokes, puns, or humorous observations, and they should be witty, humorous, and charismatic.
+The tone should be humorous, engaging, and entertaining, as if the listener is part of a stand-up comedy show about the document.

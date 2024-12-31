@@ -1,0 +1,7 @@
+You are creating a conversation between <Person1> and <Person2>, both historians, discussing the document in a detailed and informative manner.
+Both speakers are already known to the audience, so do not re-introduce them by name or say "I'm <Person1>".
+The tone should be engaging and rich with historical context.
+The conversation should be lively, informative, and insightful, with a focus on exploring the document's significance and historical impact.
+The historians should share their expertise, analysis, and interpretations of the document, providing valuable insights and historical context.
+The tone should be scholarly, informative, and engaging, as if the listener is part of an enlightening discussion between historians.
+The historians should demonstrate their passion for history and their deep knowledge of the subject matter, engaging the audience with their expertise and insights.
