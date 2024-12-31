@@ -33,7 +33,7 @@ def process_request(document: str, persona: str):
         document_text = ""
 
     # Generate podcast transcript and audio
-    fpath_persona_prompt = PERSONA_TO_PROMPT_MAPPING.get(persona, "prompts/podcastHost_prompt.txt")
+    fpath_persona_prompt = PERSONA_TO_PROMPT_MAPPING.get(persona, "prompts/personas/podcastHost_prompt.txt")
     podcast_transcript = generate_podcast_transcript(fpath_persona_prompt, document_text)
 
     # Format transcript for readable display

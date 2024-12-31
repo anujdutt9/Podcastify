@@ -20,8 +20,11 @@ Transform documents into engaging podcasts or create random story podcasts using
 ### Upload a Document
 ![UI Upload](assets/ui/LandingPage.png)
 
-### Generated Podcast Transcript
+### Generated Podcast Transcript (with Document)
 ![UI Transcript](assets/ui/PodcastTranscript.png)
+
+### Generated Podcast Transcript (without Document)
+![UI Transcript](assets/ui/PodcastTranscriptNoDoc.png)
 
 ### Podcast Audio Output
 ![UI Audio](assets/ui/PodcastAudioOutput.png)
