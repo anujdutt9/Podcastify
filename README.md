@@ -38,16 +38,19 @@ https://github.com/user-attachments/assets/e2ac87e9-d035-4166-8a1d-370b3ca49584
 
 ### Sample 2: Story Podcast - Magical Storyteller Persona
 
+https://github.com/user-attachments/assets/36567421-6d84-416a-ba72-a5a52672aae6
 
 ---
 
 ### Sample 3: Comedy Podcast - Stand-Up Comedian Persona
 
+https://github.com/user-attachments/assets/b52ade3c-e227-4511-9e50-3552c19859cd
 
 ---
 
 ### Sample 4: Inspirational Story - Fitness Coach Persona
 
+https://github.com/user-attachments/assets/a4f30d6f-637b-4623-836f-19585bb21c4e
 
 ---
 
