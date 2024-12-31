@@ -1,15 +1,15 @@
 # Main prompt mapping for the different personas
 PERSONA_TO_PROMPT_MAPPING = {
-    "Podcast Host": "prompts/podcastHost_prompt.txt",
-    "A Ten year old": "prompts/tenYearOld_prompt.txt",
-    "Historian": "prompts/historian_prompt.txt",
-    "Motivational Life Coach": "prompts/motivationalLifeCoach_prompt.txt",
-    "Detective": "prompts/detective_prompt.txt",
-    "Fitness Coach": "prompts/fitnessCoach_prompt.txt",
-    "Journalist": "prompts/journalist_prompt.txt",
-    "Time Traveler": "prompts/timeTraveler_prompt.txt",
-    "Magical Storyteller": "prompts/magicalStoryteller_prompt.txt",
-    "Stand-Up Comedian": "prompts/standUpComedian_prompt.txt",
+    "Podcast Host": "prompts/personas/podcastHost_prompt.txt",
+    "A Ten year old": "prompts/personas/tenYearOld_prompt.txt",
+    "Historian": "prompts/personas/historian_prompt.txt",
+    "Motivational Life Coach": "prompts/personas/motivationalLifeCoach_prompt.txt",
+    "Detective": "prompts/personas/detective_prompt.txt",
+    "Fitness Coach": "prompts/personas/fitnessCoach_prompt.txt",
+    "Journalist": "prompts/personas/journalist_prompt.txt",
+    "Time Traveler": "prompts/personas/timeTraveler_prompt.txt",
+    "Magical Storyteller": "prompts/personas/magicalStoryteller_prompt.txt",
+    "Stand-Up Comedian": "prompts/personas/standUpComedian_prompt.txt",
 }
 
 # Persona Choices
