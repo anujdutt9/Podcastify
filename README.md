@@ -18,13 +18,13 @@ Transform documents into engaging podcasts or create random story podcasts using
 ## 🎥 UI in Action
 
 ### Upload a Document
-![UI Upload](assets/ui_upload.png)
+![UI Upload](assets/ui/LandingPage.png)
 
 ### Generated Podcast Transcript
-![UI Transcript](assets/ui_transcript.png)
+![UI Transcript](assets/ui/PodcastTranscript.png)
 
 ### Podcast Audio Output
-![UI Audio](assets/ui_audio.png)
+![UI Audio](assets/ui/PodcastAudioOutput.png)
 
 ---
 
