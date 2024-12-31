@@ -31,9 +31,10 @@ Transform documents into engaging podcasts or create random story podcasts using
 ## 🎧 Sample Audio Outputs
 
 ### Sample 1: Generated Podcast for a Technical Document
-<video controls="" autoplay="">
-  <source src="assets/sample_outputs/Detective_podcast_audio.mp4" type="video/mp4">
-  Your browser does not support the audio element.
+
+<video width="640" height="360" controls>
+  <source src="https://raw.githubusercontent.com/anujdutt9/Podcastify/main/assets/sample_outputs/Detective_podcast_audio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
 ---
