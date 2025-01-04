@@ -64,7 +64,7 @@ https://github.com/user-attachments/assets/a4f30d6f-637b-4623-836f-19585bb21c4e
 1. Clone this repository:
    ```bash
    git clone git@github.com:anujdutt9/Podcastify.git
-   cd podcastify
+   cd Podcastify
     ```
 
 2. Create a virtual environment and activate it:
@@ -114,8 +114,10 @@ Please fork this repository, make your changes, and submit a pull request. For m
 
 # 🛠️ Troubleshooting
 
-•	Missing API Keys: Ensure OPENAI_API_KEY and ELEVENLABS_API_KEY are correctly set in the .env file.
+•	Missing API Keys: Ensure `OPENAI_API_KEY` and `ELEVENLABS_API_KEY` are correctly set in the .env file.
+
 •	Audio Generation Issues: Verify that ElevenLabs API access is active.
+
 •	UI Not Loading: Ensure all dependencies are installed and the correct Python environment is activated.
 
 ---
