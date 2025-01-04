@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/a4f30d6f-637b-4623-836f-19585bb21c4e
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/document-podcast-creator.git
+   git clone git@github.com:anujdutt9/Podcastify.git
    cd podcastify
     ```
 
