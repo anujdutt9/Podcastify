@@ -101,7 +101,7 @@ Create a .env file in the root directory with the following content:
 
 1.	Launch the application:
    ```bash
-    streamlit run app.py
+    python app.py
    ```
 2. Open your browser and navigate to the provided local URL (e.g., http://127.0.0.1:7860/). 
 3. Upload a document or leave it blank, choose a persona, and click **Generate Podcast**.
